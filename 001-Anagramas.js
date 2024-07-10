@@ -22,3 +22,5 @@ function sonAnagramas(word1, word2){
 const word1 = "roma";
 const word2 = "amor"; 
 console.log(sonAnagramas(word1, word2));
+
+/* 7/7/2024 */
